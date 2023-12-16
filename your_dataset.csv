@@ -1,0 +1,13 @@
+Transaction Amount,Transaction Time,Transaction Type,Merchant Info,User Account Info,Location Info,Device Info,User Behavior,Label,Transaction Date,TimeDifference
+150.67,15/01/2023 14:23,Online Purchase,XYZ Electronics,User123 Account,"New York, USA",Device123,High Frequency,0,16/12/2023,0
+120.3,08/04/2023 12:15,ATM Withdrawal,GHI Bank,User123 Account,"Miami, USA",Device123,Low Frequency,0,16/12/2023,0
+130.45,10/07/2023 15:30,In-Store Purchase,PQR Gadgets,User123 Account,"Chicago, USA",Device123,Low Frequency,0,16/12/2023,0
+180.75,05/10/2023 09:00,In-Store Purchase,XYZ Electronics,User123 Account,"New York, USA",Device123,Normal,0,16/12/2023,0
+89.99,03/02/2023 09:45,In-Store Purchase,ABC Clothing,User456 Account,"Los Angeles, USA",Device456,Normal,0,16/12/2023,1
+300.75,01/05/2023 21:10,Online Purchase,JKL Electronics,User456 Account,"San Francisco, USA",Device456,Normal,0,16/12/2023,0
+250.6,01/08/2023 20:45,Online Purchase,ABC Clothing,User456 Account,"Los Angeles, USA",Device456,Normal,0,16/12/2023,0
+300.9,20/11/2023 22:10,Online Purchase,MNO Supermarket,User456 Account,"Boston, USA",Device456,Low Frequency,0,16/12/2023,0
+200.45,20/03/2023 18:30,Online Purchase,DEF Appliances,User789 Account,"Chicago, USA",Device789,High Frequency,0,16/12/2023,1
+75.5,10/06/2023 08:05,In-Store Purchase,MNO Supermarket,User789 Account,"Boston, USA",Device789,Low Frequency,0,16/12/2023,0
+80.2,18/09/2023 11:15,ATM Withdrawal,JKL Electronics,User789 Account,"San Francisco, USA",Device789,High Frequency,0,16/12/2023,0
+95.3,15/12/2023 07:45,Online Purchase,DEF Appliances,User789 Account,"Miami, USA",Device789,High Frequency,0,16/12/2023,0
